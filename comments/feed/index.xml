@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Kommentare für Static Wp Demo	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://patupaka.github.io/softboydev/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://patupaka.github.io/softboydev/</link>
 	<description>arz i love you</description>
 	<lastBuildDate>Thu, 02 Sep 2021 13:34:37 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Kommentar zu Hallo Welt! von Ein WordPress-Kommentator		</title>
-		<link>/2021/09/02/hallo-welt/#comment-1</link>
+		<link>https://patupaka.github.io/softboydev/2021/09/02/hallo-welt/#comment-1</link>
 
 		<dc:creator><![CDATA[Ein WordPress-Kommentator]]></dc:creator>
 		<pubDate>Thu, 02 Sep 2021 13:34:37 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://patupaka.github.io/softboydev/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hallo, dies ist ein Kommentar.
 Um mit dem Freischalten, Bearbeiten und Löschen von Kommentaren zu beginnen, besuche bitte die Kommentare-Ansicht im Dashboard.
